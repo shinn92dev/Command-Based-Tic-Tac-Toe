@@ -40,7 +40,6 @@ plaintextCopy codetic_tac_toe/
 |-- TicTacToe.h             (main game class definition)
 |-- TicTacToeFunction.h     (helper class for game functions)
 |-- README.md               (project documentation)
-|-- LICENSE                 (project license)
 ```
 
 ## How to Play
